@@ -1,0 +1,66 @@
+.table td {
+    color: black;
+}
+
+.table th {
+    color: white;
+}
+
+body {
+    background: black;
+    color: #00ffff;
+    text-align: center;
+}
+
+#title {
+    font-size: 50px;
+    color: lightgreen;
+}
+
+#outerContainer {
+    height: 70vh;
+    margin: 15px 80px;
+    padding: 0 20%;
+}
+
+.ellipsis {
+    color: #00FFFF;
+}
+
+.paginate_button {
+    background-color: #00FFFF;
+}
+
+#table_id_info {
+    color: #00FFFF;
+}
+
+#topContainer,
+#bottomContainer {
+    margin-top: 20px;
+    height: 40%;
+}
+
+#twitter,
+#tumblr,
+#facebook,
+#instagram {
+    display: inline-block;
+    border: 1px solid lightgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+#twitter,
+#facebook {
+    float: left;
+}
+
+#tumblr,
+#instagram {
+    float: right;
+}
+
+label {
+    color: #00ffff;
+}
